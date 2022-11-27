@@ -7,6 +7,12 @@ https://github.github.com/gfm/
 https://docs.github.com/en/github/writing-on-github/working-with-advanced-formatting/creating-and-highlighting-code-blocks
 https://docs.github.com/en/github/writing-on-github/working-with-advanced-formatting/attaching-files
 
+## GitLab Docs
+https://docs.gitlab.com/
+
+## gitbook
+https://gitbook.com
+
 ## https://guides.github.com/features/mastering-markdown/
 
 

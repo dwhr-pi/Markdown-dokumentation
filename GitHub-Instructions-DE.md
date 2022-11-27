@@ -32,3 +32,6 @@ Sie können dieses Repository mit Code aus einem Subversion-, Mercurial- oder TF
 
 
 ProTipp! Verwenden Sie die URL für diese Seite, wenn Sie GitHub als Remote hinzufügen.
+
+
+[Branch protection rule](https://github.com/dwhr-pi/DietPi-Docs/settings/branch_protection_rules/new?branch_name=master)
