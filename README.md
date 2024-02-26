@@ -1,7 +1,10 @@
 # Markdown, die Sprache von Github.com
 
 ## GitHub
-https://github.github.com/gfm/  
+https://github.github.com/gfm/ 
+
+Buch über Git
+https://git-scm.com/book/en/v2
 
 ## GitHub Docs
 https://docs.github.com/en/github/writing-on-github/working-with-advanced-formatting/creating-and-highlighting-code-blocks  
