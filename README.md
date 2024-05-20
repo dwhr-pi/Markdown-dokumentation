@@ -8,7 +8,7 @@ ich finde die Idee super. Einfach mal ausprobieren, was mit einer eigenen lokale
 Nein, man braucht nicht immer ein komplettes Pflichtenheft oder eine ausgefeilte Anforderung, um etwas Neues auszuprobieren. Manchmal will man es einfach nur testen.
 
 Du könntest mit dem AI-Setup aus deinem Video selbst beginnen: https://ollama.com/
-Du könntest dir die folgenden Links genauer ansehen: [How to run your own Ai](https://techhq.com/2024/01/how-to-build-your-own-ai-guide-step-by-step/) oder How to run powerful AI locally on your own computer for free](https://www.linkedin.com/pulse/how-run-powerful-ai-locally-your-own-computer-free-jim-ames/). 
+Du könntest dir die folgenden Links genauer ansehen: [How to run your own Ai](https://techhq.com/2024/01/how-to-build-your-own-ai-guide-step-by-step/) oder [How to run powerful AI locally on your own computer for free] (https://www.linkedin.com/pulse/how-run-powerful-ai-locally-your-own-computer-free-jim-ames/). 
 Du testest [GPT4All](https://gpt4all.io/index.html)  
 
 Wenn du z.B. [Ollama](https://ollama.com/) installierst, kannst du anschließend die folgenden Language Models herunterladen:
