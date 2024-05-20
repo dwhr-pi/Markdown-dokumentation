@@ -3,7 +3,7 @@ https://administrator.de/forum/lokale-geschaeftliche-ki-instanz-aufsetzen-222610
 
 firefly 13.05.2024 aktualisiert um 17:51:44 Uhr
 
-ich finde die Idee super. Einfach mal ausprobieren, was mit einer eigenen lokalen KI möglich ist. Für die Detailplaner hier wohl kaum vorstellbar. Lass dich da nicht mit runterziehen, ich habe das Gefühl, dass einige User hier schon viel zu lange an ihrem Computer sitzen.
+Die Idee ist super. Einfach mal ausprobieren, was mit einer eigenen lokalen KI alles so möglich ist. Für die Detailplaner hier wohl kaum vorstellbar. Lass dich da nicht mit runterziehen, ich habe das Gefühl, dass einige User hier schon viel zu lange an ihrem Computer sitzen.
 
 Nein, man braucht nicht immer ein komplettes Pflichtenheft oder eine ausgefeilte Anforderung, um etwas Neues auszuprobieren. Manchmal will man es einfach nur testen.
 
@@ -27,7 +27,7 @@ Dazu noch ein Chat-Interface wie:
 
 Zuerst sollte man sich die KI Grundlagen anschauen, eine eigene KI zum Laufen bringen, mit ihr spielen und dann sehen, was man braucht bzw. was man als Anforderung formulieren kann.
 
-Erst dann zeigt sich, ob die Wünsche realisierbar sind oder nicht. [KI kann heute schon mehr] (https://openai.com/index/spring-update/), als sich viele hier vorstellen können. Hier aber wird dem User ein Warenwirtschaftsprogramm, Excel, unreife KIs oder Siri vorgeschlagen. Das zeugt von viel, äh, wie soll ich es nett sagen, Nachholbedarf in Sachen AI.
+Erst dann zeigt sich, ob die Wünsche realisierbar sind oder nicht. [KI kann heute schon mehr](https://openai.com/index/spring-update/), als sich viele hier vorstellen können. Hier aber wird dem User ein Warenwirtschaftsprogramm, Excel, unreife KIs oder Siri vorgeschlagen. Das zeugt von viel, äh, wie soll ich es nett sagen, Nachholbedarf in Sachen AI.
 
 
 # Markdown, die Sprache von Github.com
