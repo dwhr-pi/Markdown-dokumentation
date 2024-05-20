@@ -7,7 +7,7 @@ ich finde die Idee super. Einfach mal ausprobieren, was mit einer eigenen lokale
 
 Nein, man braucht nicht immer ein komplettes Pflichtenheft oder eine ausgefeilte Anforderung, um etwas Neues auszuprobieren. Manchmal will man es einfach nur testen.
 
-Du könntest mit dem AI-Setup aus deinem Video selbst beginnen: [OLLAMA)(https://ollama.com/).  
+Du könntest mit dem AI-Setup aus deinem Video selbst beginnen: [OLLAMA](https://ollama.com/).  
 Du könntest dir die folgenden Links genauer ansehen: [How to run your own Ai](https://techhq.com/2024/01/how-to-build-your-own-ai-guide-step-by-step/) oder [How to run powerful AI locally on your own computer for free](https://www.linkedin.com/pulse/how-run-powerful-ai-locally-your-own-computer-free-jim-ames/).  
 Du testest [GPT4All](https://gpt4all.io/index.html)  
 
@@ -25,6 +25,9 @@ Dazu noch ein Chat-Interface wie:
 [Open WebUI](https://github.com/open-webui/open-webui)  
 [Libre Chat](https://github.com/danny-avila/LibreChat?tab=readme-ov-file)  
 
+Zuerst sollte man sich die KI Grundlagen anschauen, eine eigene KI zum Laufen bringen, mit ihr spielen und dann sehen, was man braucht bzw. was man als Anforderung formulieren kann.
+
+Erst dann zeigt sich, ob die Wünsche realisierbar sind oder nicht. [KI kann heute schon mehr] (https://openai.com/index/spring-update/), als sich viele hier vorstellen können. Hier aber wird dem User ein Warenwirtschaftsprogramm, Excel, unreife KIs oder Siri vorgeschlagen. Das zeugt von viel, äh, wie soll ich es nett sagen, Nachholbedarf in Sachen AI.
 
 
 # Markdown, die Sprache von Github.com
