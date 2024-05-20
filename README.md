@@ -30,6 +30,9 @@ Zuerst sollte man sich die KI Grundlagen anschauen, eine eigene KI zum Laufen br
 Erst dann zeigt sich, ob die Wünsche realisierbar sind oder nicht. [KI kann heute schon mehr](https://openai.com/index/spring-update/), als sich viele hier vorstellen können. Hier aber wird dem User ein Warenwirtschaftsprogramm, Excel, unreife KIs oder Siri vorgeschlagen. Das zeugt von viel, äh, wie soll ich es nett sagen, Nachholbedarf in Sachen AI.
 
 
+
+
+
 # Markdown, die Sprache von Github.com
 
 ## GitHub
