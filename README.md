@@ -1,3 +1,8 @@
+Wichtig für die KI
+https://administrator.de/forum/lokale-geschaeftliche-ki-instanz-aufsetzen-22261082269.html?mtm_campaign=newsletter_2024-05-20&mtm_kwd=content
+
+
+
 # Markdown, die Sprache von Github.com
 
 ## GitHub
