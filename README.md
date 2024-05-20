@@ -21,9 +21,9 @@ und einige andere -> siehe https://github.com/ollama/ollama
 
 Dazu noch ein Chat-Interface wie:
 
-Enchanted
-Open WebUI
-LibreChat
+Enchanted https://github.com/AugustDev/enchanted
+Open WebUI https://github.com/open-webui/open-webui
+Libre Chat https://github.com/danny-avila/LibreChat?tab=readme-ov-file
 
 
 
