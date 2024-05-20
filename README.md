@@ -1,7 +1,7 @@
 Wichtig für die KI
 https://administrator.de/forum/lokale-geschaeftliche-ki-instanz-aufsetzen-22261082269.html?mtm_campaign=newsletter_2024-05-20&mtm_kwd=content
 
-firefly 13.05.2024 aktualisiert um 17:51:44 Uhr
+weil mich dieses [Video](https://www.youtube.com/watch?v=Wjrdr0NU4Sk) inspiriert hat, möchte ich für meine User eine KI-Testumgebung aufbauen. 
 
 Die Idee ist super. Einfach mal ausprobieren, was mit einer eigenen lokalen KI alles so möglich ist. Für die Detailplaner hier wohl kaum vorstellbar. Lass dich da nicht mit runterziehen, ich habe das Gefühl, dass einige User hier schon viel zu lange an ihrem Computer sitzen.
 
