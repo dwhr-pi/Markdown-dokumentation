@@ -1,6 +1,30 @@
 Wichtig für die KI
 https://administrator.de/forum/lokale-geschaeftliche-ki-instanz-aufsetzen-22261082269.html?mtm_campaign=newsletter_2024-05-20&mtm_kwd=content
 
+firefly 13.05.2024 aktualisiert um 17:51:44 Uhr
+
+ich finde die Idee super. Einfach mal ausprobieren, was mit einer eigenen lokalen KI möglich ist. Für die Detailplaner hier wohl kaum vorstellbar. Lass dich da nicht mit runterziehen, ich habe das Gefühl, dass einige User hier schon viel zu lange an ihrem Computer sitzen.
+
+Nein, man braucht nicht immer ein komplettes Pflichtenheft oder eine ausgefeilte Anforderung, um etwas Neues auszuprobieren. Manchmal will man es einfach nur testen.
+
+Du könntest mit dem AI-Setup aus deinem Video selbst beginnen: https://ollama.com/
+Du könntest dir die folgenden Links genauer ansehen: How to run your own AI oder How to run powerful AI locally on your own computer for free
+Du testest GPT4All
+
+Wenn du z.B. Ollama installierst, kannst du anschließend die folgenden Language Models herunterladen:
+
+Llama 3 (die aktuelle KI von Meta)
+Phi 3 (ein kleines modernes und offenes KI-Modell von Microsoft)
+Mistral (Mistral KI mit Apache Lizenz)
+Gemma (ein kleines, modernes und offenes KI-Modelle von Google DeepMind)
+und einige andere -> siehe https://github.com/ollama/ollama
+
+Dazu noch ein Chat-Interface wie:
+
+Enchanted
+Open WebUI
+LibreChat
+
 
 
 # Markdown, die Sprache von Github.com
