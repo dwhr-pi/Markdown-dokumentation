@@ -11,7 +11,7 @@ Du könntest mit dem AI-Setup aus deinem Video selbst beginnen: https://ollama.c
 Du könntest dir die folgenden Links genauer ansehen: How to run your own AI oder How to run powerful AI locally on your own computer for free
 Du testest GPT4All
 
-Wenn du z.B. Ollama installierst, kannst du anschließend die folgenden Language Models herunterladen:
+Wenn du z.B. Ollama https://ollama.com/ installierst, kannst du anschließend die folgenden Language Models herunterladen:
 
 Llama 3 (die aktuelle KI von Meta)
 Phi 3 (ein kleines modernes und offenes KI-Modell von Microsoft)
@@ -21,9 +21,9 @@ und einige andere -> siehe https://github.com/ollama/ollama
 
 Dazu noch ein Chat-Interface wie:
 
-Enchanted https://github.com/AugustDev/enchanted
-Open WebUI https://github.com/open-webui/open-webui
-Libre Chat https://github.com/danny-avila/LibreChat?tab=readme-ov-file
+Enchanted https://github.com/AugustDev/enchanted. 
+Open WebUI https://github.com/open-webui/open-webui  
+Libre Chat https://github.com/danny-avila/LibreChat?tab=readme-ov-file  
 
 
 
